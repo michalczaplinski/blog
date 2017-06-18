@@ -13,9 +13,9 @@ publishDir = "docs"
 [params]
 	name = "Michal's blog"
 	description = "Blog Description"
-	bio = "rock & roll and programming"
+	bio = "..."
 	# Enter optionally your twitter account
-	twitter = "your_twotter"
+	twitter = "your_twitter"
 	enableRSS = false
 
 	# Disqus comment
@@ -71,6 +71,6 @@ publishDir = "docs"
 
 # Add additional social link entries underneath
 [social]
-	facebook-square = "your_facebook_link"
-  twitter-square = "your_twitter_link"
-  github-square = "your_github_link"
+	facebook-square = "https://www.facebook.com/mmczaplinski"
+  twitter-square = "https://twitter.com/c_z_a_p_l_a"
+  github-square = "https://github.com/michalczaplinski"
