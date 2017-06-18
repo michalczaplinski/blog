@@ -13,7 +13,7 @@ publishDir = "docs"
 [params]
 	name = "Michal's blog"
 	description = "Blog Description"
-	bio = "make code not war"
+	bio = "make compile not war"
 	# Enter optionally your twitter account
 	twitter = "your_twitter"
 	enableRSS = false
