@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://michalczaplinski.github.io/blog"
+baseurl = "https://michalczaplinski.github.io/blog/"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
 title = "Blog Title"
